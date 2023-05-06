@@ -26,6 +26,6 @@ System.out.println(batteryLevel);
 codey.performTask("playing");
 System.out.println(batteryLevel);
 codey.performTask("flying");
-System.out.println("batteryLevel");
+System.out.println(batteryLevel);
   }
 }
